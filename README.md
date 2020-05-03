@@ -8,9 +8,14 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
+* [Products over Projects](https://martinfowler.com/articles/products-over-projects.html)
+
+### To master, continue with
+
 * ["Team Topologies: Organizing Business and Technology Teams for Fast Flow" book](https://www.goodreads.com/book/show/44135420-team-topologies)
 * ["Project Myopia: Why projects damage software #NoProjects" book](https://www.goodreads.com/book/show/41057716-project-myopia)
-* [Products over Projects](https://martinfowler.com/articles/products-over-projects.html)
 * [Project vs. Product](https://www.thoughtworks.com/insights/blog/project-vs-product)
 * [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
 * [Products not Projects](https://www.madetech.com/blog/products-not-projects)
